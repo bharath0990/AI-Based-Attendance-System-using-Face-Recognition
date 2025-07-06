@@ -245,8 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: support@example.com
-- Documentation: [Wiki](https://github.com/yourusername/AI_Attendance_System/wiki)
+- Email: padakantibharath82@gmail.com
+- Documentation: https://github.com/bharath0990/AI-Based-Attendance-System-using-Face-Recognition
 
 ## Roadmap
 
